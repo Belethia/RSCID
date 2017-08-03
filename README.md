@@ -1,5 +1,5 @@
 Install Instructions
 ====================
 
-library(devtools)
-install_github("Belethia/RSCDI")
+    library(devtools)
+    install_github("Belethia/RSCID")
