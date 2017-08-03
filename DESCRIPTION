@@ -1,10 +1,11 @@
 Package: RSCID
 Type: Package
-Title: Tools for working with SCID files.
+Title: Tool for reading Sierra Chart Intraday Data Files
 Version: 0.1.0
 Author: Juan Luis Herrera Cortijo
 Maintainer: Juan Luis Herrera Cortijo <juan.luis.herrera.cortijo@gmail.com>
-Description: Tools for working with SCID files.
+Description: Tool for reading Sierra Chart Intraday Data Files (*.scid).
+    This package includes just one function that reads all the records in a SCID file (Version 1).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
